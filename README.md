@@ -1,7 +1,7 @@
 # react-native-tabs
 This is a react native Swipeable tabs 
 
-##Demo
+## Demo
 ```
   <Tabs
         defaultValue={tab}
